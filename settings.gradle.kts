@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JC-Android-Cache"
 include(":app")
- 
+include(":lib_cache")
